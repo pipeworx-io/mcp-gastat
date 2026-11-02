@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-gastat",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "GASTAT MCP — Saudi Arabia's General Authority for Statistics.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "gastat",
     "gatewaySlug": "gastat",
-    "sourceHash": "v1-022783a6172581003cb6a960e55641c4b185cee03f402832ac94ead5159deff2",
-    "sourceCommit": "bb047243cf27f32453103de186b8e6a8b6a1ce79"
+    "sourceHash": "v1-c462c96c05e84157878f4f2734e5ad9f5813d7c79b5a5f5dfb36314b0ff51b4d",
+    "sourceCommit": "030233f6b150a38a44421f88a5fcbad123f0fea8"
   }
 }
